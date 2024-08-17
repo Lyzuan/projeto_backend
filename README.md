@@ -35,21 +35,21 @@ Este projeto é um backend desenvolvido com Node.js e Sequelize, utilizando MySQ
 ### Configuração do Ambiente
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/usuario/nome-repositorio.git
+    ```bash
+    git clone https://github.com/usuario/nome-repositorio.git
+    ```
 
-
-1. **Navegue até o diretório do projeto:**
+2. Navegue até o diretório do projeto:
     ```bash
     cd nome-repositorio
     ```
 
-2. **Instale as dependências:**
+3. Instale as dependências:
     ```bash
     npm install
     ```
 
-3. **Crie um arquivo `.env` na raiz do projeto com as seguintes variáveis:**
+4. Crie um arquivo `.env` na raiz do projeto com as seguintes variáveis:
     ```env
     DB_NAME=projeto_backend
     DB_USER=root
@@ -59,9 +59,9 @@ Este projeto é um backend desenvolvido com Node.js e Sequelize, utilizando MySQ
     PORT=3000
     ```
 
-4. **Configure o banco de dados MySQL e crie as tabelas usando os comandos SQL fornecidos.**
+5. Configure o banco de dados MySQL e crie as tabelas usando os comandos SQL fornecidos.
 
-5. **Inicie o servidor:**
+6. Inicie o servidor:
     ```bash
     npm start
     ```
@@ -98,6 +98,7 @@ Este projeto é um backend desenvolvido com Node.js e Sequelize, utilizando MySQ
 Para executar os testes, utilize o comando:
 ```bash
 npm test
+
 
 ## Licença
 

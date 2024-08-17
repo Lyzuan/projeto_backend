@@ -38,7 +38,6 @@ Este projeto é um backend desenvolvido com Node.js e Sequelize, utilizando MySQ
    ```bash
    git clone https://github.com/usuario/nome-repositorio.git
 
-   ## Configuração do Ambiente
 
 1. **Navegue até o diretório do projeto:**
     ```bash
@@ -100,3 +99,6 @@ Para executar os testes, utilize o comando:
 ```bash
 npm test
 
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
